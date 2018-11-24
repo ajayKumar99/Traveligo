@@ -1,0 +1,53 @@
+.div3{
+    background-color: #fff;
+    height: 400px;
+    width: 900px;
+    border-radius: 16px;
+    margin-left: 300px;
+    margin-bottom: 2px;
+}
+
+.usename{
+    margin-top: 0px;
+    width: 300px;
+    float: left;
+    border-radius: 10px;
+}
+
+.emailid{
+    margin-top: 0px;
+    width: 300px;
+    float: left;
+    border-radius: 10px;
+    
+}
+
+.phone{
+    margin-top: 0px;
+    width: 300px;
+    float: left;
+    border-radius: 10px;
+}
+
+.user_name{
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 250px;
+}
+
+.traveller{
+    margin-top: 0px;
+}
+
+.users_image{
+    height: 150px;
+    width: 900px;
+}
+
+.timefont{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    font-family: 'Sofia';
+    font-size: 36px;
+}
